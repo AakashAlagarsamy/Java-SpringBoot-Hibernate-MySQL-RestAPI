@@ -1,0 +1,1 @@
+SELECT * FROM crudapi.tbl_employee;
